@@ -1,4 +1,4 @@
-```markdown
+
 # DELTO ROS2 Documentation
 
 Welcome to the official documentation repository for DELTO ROS2!
@@ -26,5 +26,4 @@ We warmly welcome contributions from the community. To suggest improvements, fix
 For any queries, suggestions, or support requests, please open an issue in this repository or contact the maintainers or email(support@tesollo.com).
 
 Thank you for supporting and contributing to DELTO ROS2! Your collaboration helps keep the documentation comprehensive and helpful for everyone.
-```
 
